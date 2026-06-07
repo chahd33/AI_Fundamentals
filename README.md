@@ -7,6 +7,7 @@ Ce dépôt contient mes implémentations et expérimentations des pricipaux algo
 - SVM
 - Arbres de Décision
 - Random Forest
+- Comparaison de modèles avec GridSearchCV
 ## 📓 Liste des Travaux Pratiques
 
 | Algorithme | Dataset / Objectif | Lien Direct |
