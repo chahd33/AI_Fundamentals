@@ -18,6 +18,7 @@ Ce dépôt contient mes implémentations et expérimentations des pricipaux algo
 | **Linear Regression** | Prédiction de la Progression du Diabète | [Ouvrir le Notebook](LinearRegression/regression_lineaire_diabete.ipynb) |
 | **Linear Regression** | Prédiction du prix médian des maisons dans différents quartiers en Californie | [Ouvrir le Notebook](LinearRegression/regression_lineaire_california_housing.ipynb) |
 | **Linear Regression** | Diabetes VS California Housing | [Ouvrir le README](LinearRegression/README.md) |
+| **Logistic Regression** | Détection Cancer du Sein | [Ouvrir le Notebook](LogisticRegression/regression_logistique_breast_cancer.ipynb) |
 | **SVC** | Détection Cancer du Sein | [Ouvrir le Notebook](SVM/SVC_breast_cancer.ipynb) |
 | **SVC** | Reconnaissance de Chiffres | [Ouvrir le Notebook](SVM/SVC_digits.ipynb) |
 | **SVC** | Classification Iris | [Ouvrir le Notebook](SVM/SVC_iris.ipynb) |
