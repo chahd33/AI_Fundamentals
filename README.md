@@ -16,6 +16,7 @@ Ce dépôt contient mes implémentations et expérimentations des pricipaux algo
 | **Decision Tree** | Détection Cancer du Sein | [Ouvrir le Notebook](Decision_Trees/Decision_Tree_breast_cancer.ipynb) | 
 | **Random Forest** | Détection Cancer du  sein | [Ouvrir le Notebook](RandomForest/RandomForest_breast_cancer.ipynb) |
 | **SVC** | Détection Cancer du Sein | [Ouvrir le Notebook](SVM/SVC_breast_cancer.ipynb) |
+| **Linear Regression** | Prédiction de la Progression du Diabète | [Ouvrir le Notebook](LinearRegression/regression_lineaire_diabete.ipynb) |
 | **SVC** | Reconnaissance de Chiffres | [Ouvrir le Notebook](SVM/SVC_digits.ipynb) |
 | **SVC** | Classification Iris | [Ouvrir le Notebook](SVM/SVC_iris.ipynb) |
 | **SVC** | Classification du Vin | [Ouvrir le Notebook](SVM/SVC_wine.ipynb) |
