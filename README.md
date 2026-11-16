@@ -7,7 +7,6 @@ Ce dépôt contient mes implémentations et expérimentations des principaux alg
 - SVM
 - Arbres de Décision
 - Random Forest
-- Comparaison de modèles(KNN,SVM,RandomForest,Decision Trees) avec GridSearchCV
 ## 📓 Liste des Travaux Pratiques
 
 | Algorithme | Dataset / Objectif | Lien Direct |
