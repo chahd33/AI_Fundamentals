@@ -1,5 +1,5 @@
 # AI Fundamentals
-Ce dépôt contient mes implémentations et expérimentations des pricipaux algorithmes de Machine Learning étudiés durant ma formation.
+Ce dépôt contient mes implémentations et expérimentations des principaux algorithmes de Machine Learning étudiés durant ma formation.
 ## Algorithmes étudiés
 - KNN
 - Régression Linéaire
@@ -31,7 +31,7 @@ Ce dépôt contient mes implémentations et expérimentations des pricipaux algo
 - Python
 - NumPy
 - Pandas
-- Sickit-Learn
+- Sickit-learn
 - Matplotlib
 ## Objectif
 Comprendre les concepts fondamentaux du Machine Learning et leur application sur différents datasets.
